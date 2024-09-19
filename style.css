@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+    font-family: "Calibri", sans-serif;
+}
+
+table {
+    width: 966px;
+    height: 100px;
+    border: 1px solid rgb(230, 230, 230);
+    border-spacing: 0px;
+    
+}
+
+tr {
+
+}
+
+th {
+    padding: 10px;
+    border-top: 1px solid rgb(230, 230, 230);
+    
+}
+
+th, td {
+   
+    text-align: center;
+}
+
+td {
+    border-top: 1px solid rgb(230, 230, 230);
+    font-size: 14px;
+    
+}
+
+.f {
+    text-align: center;
+}
+
+.s {
+    text-align: center;
+}
+
+
